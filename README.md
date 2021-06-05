@@ -12,7 +12,7 @@ We have divided these in several categories that make them easier to digest.
 * [More useful resources!](#More-useful-resources!)
 
 ## Starter Packs for Beginners
-### 1. Web Development
+### Web Development
 #### <b>Frontend</b>
 - **[w3schools](https://www.w3schools.com/)**: This is generally the first site that anyone has opened to get into development. It explains various concepts related to web development effortlessly with the help of examples.
 - **[CSS-Tricks](https://css-tricks.com/)**: It is considered one of the best sites to learn about CSS concepts. Each example has code snippets with easy-to-follow explanations of the code and theory behind the specific concept. It also lists possible issues you may run into with the code that is often addressed, so you know how to tackle bugs that may pop up.
@@ -26,7 +26,7 @@ We have divided these in several categories that make them easier to digest.
 - **[Django REST Framework Tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)**: Django's implementation to build RESTful APIs without any hassle.
 - **[Flask Tutorial](https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html)**: Flask is framework to build lighwieght backends swiftly in Python.
 
-### 2. Mobile App Development
+### Mobile App Development
 #### <b>Android (Java)</b>
 - **[Martin Zimmermann Android Tutorial](https://www.youtube.com/playlist?list=PLwDZ5yiByAzy0-8xgJnSfo5MV937SZ4X4)**: This is a beginner course that will teach you about the basics of android dev through several single-purpose applications. It also has the IDE installation and setup instructions.
 - **[Android Tutorial for Beginnners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E)**: Another brilliant tutorial but recently published making it in line with the newest Android concepts and incorporating them in the tutorial.
@@ -37,7 +37,7 @@ We have divided these in several categories that make them easier to digest.
 #### <b>Flutter (Cross Platform)</b>
 - **[Learn Flutter Development](https://www.youtube.com/watch?v=GLSG_Wh_YWc)**: This video tutorial teaches you how to set up flutter and the basics of flutter in an interactive way. You can also refer to flutter official [docs](https://flutter.dev/docs/) to get a basic understanding of terms.
 
-### 3. ML & DL
+### ML & DL
 To start with Deep learning first, you will need to brush off some basic Machine Learning skills. You can do any of the below to get a basic idea about Machine Learning  
 - **[Machine Learning Coursera](https://www.coursera.org/learn/machine-learning)**: The most popular course on Machine Learning. It explains most of the basic concepts in ML in an easy manner. Highly recommended. Cons - It might come off as a bit boring.
 - **[UD120 - Udacity Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)**: If you find the Coursera ML course boring, try this one. It's illustrative, fast-paced and more implementation focused. Cons- A bit less comprehensive than the Coursera ML course.    
@@ -77,7 +77,7 @@ Now for more advanced knowledge, there is a lot you can do, and honestly, you ca
 
 Aside from all this. Keep on reading blogs on Medium, recent research papers on Google scholar. Follow leading researchers on Twitter and join discussions on Reddit. Keep on contributing to OpenSource Projects or take on a project yourself. Keep on mailing professors or budding startups until someone gives in and offers you a research position. Success in DL is slow but its highly rewarding :P
 
-### 4. More useful resources!
+### More useful resources!
 - **[Intro to CS](https://github.com/periperidip/exploring/blob/master/guide.md)**: Starter pack to understanding Computer Science
 - **[GSoC Guide](https://github.com/periperidip/exploring/tree/master/GSoC)**
 - **[Internship Guide](https://github.com/periperidip/exploring/blob/master/intern/get-an-intern.md)**
