@@ -82,3 +82,4 @@ Aside from all this. Keep on reading blogs on Medium, recent research papers on 
 - **[GSoC Guide](https://github.com/periperidip/exploring/tree/master/GSoC)**
 - **[Internship Guide](https://github.com/periperidip/exploring/blob/master/intern/get-an-intern.md)**
 - **[Research Guide](https://github.com/periperidip/exploring/tree/master/research)**
+- **[SDSLabs Guide](https://github.com/sdslabs/recommends)**
