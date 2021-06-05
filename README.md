@@ -6,7 +6,7 @@ We have divided these in several categories that make them easier to digest.
 # Contents
 
 * [Starter Packs for Beginners](#Starter-Packs-for-Beginners)
-* [Web Development](#Web-development)
+* [Web Development](#Web-Development)
 * [Mobile App Development](#Mobile-App-Development)
 * [ML & DL](#ML-&-DL)
 * [More useful resources!](#More-useful-resources!)
