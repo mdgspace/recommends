@@ -8,8 +8,8 @@ We have divided these in several categories that make them easier to digest.
 * [Starter Packs for Beginners](#Starter-Packs-for-Beginners)
 * [Web Development](#Web-Development)
 * [Mobile App Development](#Mobile-App-Development)
-* [ML & DL](#ML-&-DL)
-* [More useful resources!](#More-useful-resources!)
+* [Machine Learing and Deep Learning](#Machine-Learing-and-Deep-Learning)
+* [More useful resources](#More-useful-resources)
 
 ## Starter Packs for Beginners
 ### Web Development
@@ -37,7 +37,7 @@ We have divided these in several categories that make them easier to digest.
 #### <b>Flutter (Cross Platform)</b>
 - **[Learn Flutter Development](https://www.youtube.com/watch?v=GLSG_Wh_YWc)**: This video tutorial teaches you how to set up flutter and the basics of flutter in an interactive way. You can also refer to flutter official [docs](https://flutter.dev/docs/) to get a basic understanding of terms.
 
-### ML & DL
+### Machine Learing and Deep Learning
 To start with Deep learning first, you will need to brush off some basic Machine Learning skills. You can do any of the below to get a basic idea about Machine Learning  
 - **[Machine Learning Coursera](https://www.coursera.org/learn/machine-learning)**: The most popular course on Machine Learning. It explains most of the basic concepts in ML in an easy manner. Highly recommended. Cons - It might come off as a bit boring.
 - **[UD120 - Udacity Intro to ML](https://www.udacity.com/course/intro-to-machine-learning--ud120)**: If you find the Coursera ML course boring, try this one. It's illustrative, fast-paced and more implementation focused. Cons- A bit less comprehensive than the Coursera ML course.    
@@ -77,7 +77,7 @@ Now for more advanced knowledge, there is a lot you can do, and honestly, you ca
 
 Aside from all this. Keep on reading blogs on Medium, recent research papers on Google scholar. Follow leading researchers on Twitter and join discussions on Reddit. Keep on contributing to OpenSource Projects or take on a project yourself. Keep on mailing professors or budding startups until someone gives in and offers you a research position. Success in DL is slow but its highly rewarding :P
 
-### More useful resources!
+### More useful resources
 - **[Intro to CS](https://github.com/periperidip/exploring/blob/master/guide.md)**: Starter pack to understanding Computer Science
 - **[GSoC Guide](https://github.com/periperidip/exploring/tree/master/GSoC)**
 - **[Internship Guide](https://github.com/periperidip/exploring/blob/master/intern/get-an-intern.md)**
