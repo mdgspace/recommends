@@ -36,6 +36,8 @@ We have divided these in several categories that make them easier to digest.
 - **[Learn iOS Development](https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_)**: A good lecture series to begin with iOS app developement using Swift.
 #### <b>Flutter (Cross Platform)</b>
 - **[Learn Flutter Development](https://www.youtube.com/watch?v=GLSG_Wh_YWc)**: This video tutorial teaches you how to set up flutter and the basics of flutter in an interactive way. You can also refer to flutter official [docs](https://flutter.dev/docs/) to get a basic understanding of terms.
+#### <b>React Native (Cross Platform)</b>
+- **[Learn React Native Development](https://reactnative.dev/docs/getting-started)**: Documentation for getting up to speed with React Native and to get a basic understanding of terms.
 
 ### Machine Learing and Deep Learning
 To start with Deep learning first, you will need to brush off some basic Machine Learning skills. You can do any of the below to get a basic idea about Machine Learning  
