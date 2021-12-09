@@ -12,7 +12,9 @@ We have divided these in several categories that make them easier to digest.
 * [More useful resources](#More-useful-resources)
 
 ## Starter Packs for Beginners
+
 ### Web Development
+
 #### <b>Frontend</b>
 - **[w3schools](https://www.w3schools.com/)**: This is generally the first site that anyone has opened to get into development. It explains various concepts related to web development effortlessly with the help of examples.
 - **[CSS-Tricks](https://css-tricks.com/)**: It is considered one of the best sites to learn about CSS concepts. Each example has code snippets with easy-to-follow explanations of the code and theory behind the specific concept. It also lists possible issues you may run into with the code that is often addressed, so you know how to tackle bugs that may pop up.
@@ -20,11 +22,13 @@ We have divided these in several categories that make them easier to digest.
 - **[JS Hero](https://www.jshero.net/en/home.html)**: This is a JavaScript tutorial with interactive exercises. On each page, you will find a lesson and an activity. You can answer the task directly on the page and see them running.
 - **[Academind](https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w)**: Academind has lots of different types of development videos which would scratch quite a few itches when it comes to learning something new. Apart from some web development concepts, it contains tutorials on various other CS fields like data science, android development.
 - **[freeCodeCamp](https://www.youtube.com/c/Freecodecamp)**: Freecodecamp is an open-source community as it provides many best tutorials from different instructors for Python, CSS, React, Data Science, JavaScript, etc.
+
 #### <b>Backend</b>
 - **[Server-side Web Frameworks](https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Web_frameworks)**: Overview of backend frameworks technologies like [Django](https://www.djangoproject.com/), [Flask](http://flask.pocoo.org/), [Express](https://expressjs.com/) etc. 
 - **[Django Tutorials](https://tutorial.djangogirls.org/en/)**: Django is one of the most customisable and user friendly production level web application backend. You can also refer to official [docs](https://docs.djangoproject.com/). The documentation itself provides a great tutorial series. 
 - **[Django REST Framework Tutorial](https://www.django-rest-framework.org/tutorial/quickstart/)**: Django's implementation to build RESTful APIs without any hassle.
 - **[Flask Tutorial](https://flask.palletsprojects.com/en/2.0.x/tutorial/index.html)**: Flask is framework to build lighwieght backends swiftly in Python.
+- **[Nodejs Tutorial](https://nodejs.dev/learn)**: Node.js is an open-source server side runtime environment which executes JavaScript code outside of a browser. If you decide to learn nodejs, then you may as well learn about **mongoDB, express and react (collectively called MERN stack)** which will be essential if you intend to become a Full Stack Web Developer.
 
 ### Mobile App Development
 #### <b>Android (Java)</b>
@@ -32,7 +36,7 @@ We have divided these in several categories that make them easier to digest.
 - **[Android Tutorial for Beginnners](https://www.youtube.com/playlist?list=PLS1QulWo1RIbb1cYyzZpLFCKvdYV_yJ-E)**: Another brilliant tutorial but recently published making it in line with the newest Android concepts and incorporating them in the tutorial.
 #### <b>Android (Kotlin)</b>
 - **[Kotlin Development for beginners](https://www.youtube.com/watch?v=e7WIPwRd2s8&list=PLlxmoA0rQ-Lw5k_QCqVl3rsoJOnb_00UV)**: Another popular language for Android developent. Lately, this is gaining a lot of traction and a well quite many apps are being developed using Kotlin. This video series streamlines the learning and makes it fun.
-#### <b>iOS</b>
+#### <b>iOS (Swift)</b>
 - **[Learn iOS Development](https://www.youtube.com/watch?v=xVPGQEHok74&list=PLpZBns8dFbgx0gr68lf-un9EjdmywTu4_)**: A good lecture series to begin with iOS app developement using Swift.
 #### <b>Flutter (Cross Platform)</b>
 - **[Learn Flutter Development](https://www.youtube.com/watch?v=GLSG_Wh_YWc)**: This video tutorial teaches you how to set up flutter and the basics of flutter in an interactive way. You can also refer to flutter official [docs](https://flutter.dev/docs/) to get a basic understanding of terms.
@@ -81,7 +85,8 @@ Aside from all this. Keep on reading blogs on Medium, recent research papers on 
 
 ### More useful resources
 - **[Intro to CS](https://github.com/periperidip/exploring/blob/master/guide.md)**: Starter pack to understanding Computer Science
-- **[GSoC Guide](https://github.com/periperidip/exploring/tree/master/GSoC)**
-- **[Internship Guide](https://github.com/periperidip/exploring/blob/master/intern/get-an-intern.md)**
-- **[Research Guide](https://github.com/periperidip/exploring/tree/master/research)**
-- **[SDSLabs Guide](https://github.com/sdslabs/recommends)**
+- **[MDG's Medium Blogs](https://medium.com/mobile-development-group)**: Blogs about Flutter, Ethical Hacking, useful Linux commands etc.
+- **[GSoC Guide](https://github.com/periperidip/exploring/tree/master/GSoC)**, **[Another GSoC Guide from Google itself :)](https://google.github.io/gsocguides/student/index)**
+- **[Internship Guide](https://github.com/periperidip/exploring/blob/master/intern/get-an-intern.md)**: Guide on how to prepare for interships & placements
+- **[Research Guide](https://github.com/periperidip/exploring/tree/master/research)**: Research related guide
+- **[SDSLabs Guide](https://github.com/sdslabs/recommends)**: Recommended Resources from SDSLabs
